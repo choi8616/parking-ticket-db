@@ -1,7 +1,7 @@
 # <C>In-Memory Parking Ticket Database
 
-This project implements an in-memory parking ticket database using a hash table in C.
-It supports inserting, deleting, and looking up parking tickets by vehicle plate / state, and summons number.
+This project implements an in-memory parking ticket database using C **Hash Table**
+It supports inserting, deleting, and looking up parking tickets by vehicle plate / state, and summons number
 
 ## 📂 Files
 - 'insert_ticket.c'  : Add a ticket to a vehicle using linked list
