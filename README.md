@@ -31,3 +31,7 @@ Mandatory Flags
 Optional Flags
 -t size        : sets the hash table size (usefule when testing)
 -s             : suppresses command-line prompts (used for automated test harness)
+
+
+
+(This project was completed as part of CSE30 : Computer Organization and Systems Programming at UC San Diego)
