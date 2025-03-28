@@ -18,6 +18,7 @@ It supports inserting, deleting, and looking up parking tickets by vehicle plate
 ## 🛠️ Compile
 ```bash
 gcc -o parking_db insert_ticket.c del_ticket.c vehicle_lookup.c free_tickets.c
+```
 
 ## 🧑‍💻 Command-Line Options
 Once compiled, you can run the program with the following commands :
@@ -31,6 +32,7 @@ Mandatory Flags
 Optional Flags
 -t size        : sets the hash table size (usefule when testing)
 -s             : suppresses command-line prompts (used for automated test harness)
+```
 
 
 
