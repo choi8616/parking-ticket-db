@@ -1,4 +1,4 @@
-# <C>In-Memory Parking Ticket Database (CSE30)
+# <C>In-Memory Parking Ticket Database
 
 This project implements an in-memory parking ticket database using a hash table in C.
 It supports inserting, deleting, and looking up parking tickets by vehicle plate / state, and summons number.
